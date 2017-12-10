@@ -2,7 +2,6 @@
 <head>
 <title>行銷案例</title>
 </head>
-<body background="123.jpg"text="#000000">
 <a href="4th.html"> 心得報告</a>
 <article class="post-17609 post type-post status-publish format-standard has-post-thumbnail category-fashion category-case tag-uniqlo tag-250 tag-996" itemscope itemtype="http://schema.org/Article">
 
